@@ -3,7 +3,7 @@
 Proyek Flutter untuk **belajar animasi dan efek 3D**. Tampilannya mengikuti aplikasi dompet digital.
 
 > [!IMPORTANT]
-> **Ini bukan aplikasi keuangan.** Proyek ini hanya untuk belajar dan membuat konten hiburan.
+> **Ini bukan aplikasi keuangan.** Proyek ini hanya untuk belajar.
 >
 > - Tidak ada uang sungguhan. Saldo, transaksi, dan top up hanyalah angka tiruan yang disimpan di HP.
 > - Aplikasi ini tidak terhubung ke bank, e-wallet, atau layanan pembayaran apa pun.
