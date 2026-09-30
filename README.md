@@ -40,13 +40,6 @@ flutter run --dart-define=AUTO_SIM=true
 - **Chrome / macOS:** status charger laptop ikut terbaca.
 - **iOS Simulator:** status baterai tidak terbaca (selalu "unknown"), jadi charger laptop tidak berpengaruh. Pakai pemicu tersembunyi di bawah atau `AUTO_SIM`.
 
-## Pemicu tersembunyi
-
-Tidak terlihat di layar, supaya tidak mengganggu saat merekam:
-
-- **Tahan kartu saldo:** simulasi charging tanpa charger sungguhan. Tahan lagi untuk berhenti.
-- **Tahan avatar:** saldo dan riwayat kembali ke kondisi awal.
-
 ## Mengubah isi
 
 - Nama brand dan nama pengguna: `appName` dan `userName` di [theme.dart](lib/theme.dart).
